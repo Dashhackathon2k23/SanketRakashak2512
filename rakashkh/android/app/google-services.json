@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "151755384366",
+    "project_id": "rakshak-main-hackathon",
+    "storage_bucket": "rakshak-main-hackathon.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:151755384366:android:6d846cd3e5a77ac79f21bf",
+        "android_client_info": {
+          "package_name": "com.example.rakashkh"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB8QiwEQYfDUBqDEG-xSax22_nG3ieuKc0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
